@@ -1,0 +1,105 @@
+
+.mainTitle {
+    text-align: center;
+    border: 6px solid #000000;
+}
+
+#titleMain {
+    color: #000000;
+}
+
+.navbar-inverse {
+    border-radius: 0;
+}
+
+.absBar {
+    z-index: 9999;
+    position: absolute;
+    width: 100%;
+}
+
+.fixedBar {
+    z-index: 9999;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+.jumbotron {
+    background-color: #058c15;
+    margin-bottom: 0;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+
+.cellTitle {
+    text-align: center;
+}
+
+.cellDiv {
+    color: white;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+
+.cell {
+    padding: 5px;
+    color: black;
+    border-color: black;
+}
+
+footer {
+    background-color: #026891;
+}
+
+footer > p {
+    text-align: center;
+}
+
+.placeHolder {
+    height: 50px;
+}
+
+#subButton {
+    background-color: lightgray;
+}
+
+.pageTitle {
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+
+#changedPadding {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+
+.carousel {
+    margin-top: 10px;
+}
+
+.rightIMG {
+    margin-left: 5px;
+}
+
+.picText {
+    margin-left: 10%;
+    margin-right: 10%;
+    border-top: 2px solid black;
+}
+
+
+
+.leftIMG {
+    margin-right: 5px;
+}
